@@ -1,0 +1,7 @@
+E:\02 Personal Code\05 C#\01 Learn\SendQuickToU\SendQuickToU\bin\Debug\SendQuickToU.exe.config
+E:\02 Personal Code\05 C#\01 Learn\SendQuickToU\SendQuickToU\obj\Debug\SendQuickToU.Properties.Resources.resources
+E:\02 Personal Code\05 C#\01 Learn\SendQuickToU\SendQuickToU\obj\Debug\SendQuickToU.csproj.GenerateResource.Cache
+E:\02 Personal Code\05 C#\01 Learn\SendQuickToU\SendQuickToU\bin\Debug\SendQuickToU.exe
+E:\02 Personal Code\05 C#\01 Learn\SendQuickToU\SendQuickToU\bin\Debug\SendQuickToU.pdb
+E:\02 Personal Code\05 C#\01 Learn\SendQuickToU\SendQuickToU\obj\Debug\SendQuickToU.exe
+E:\02 Personal Code\05 C#\01 Learn\SendQuickToU\SendQuickToU\obj\Debug\SendQuickToU.pdb
